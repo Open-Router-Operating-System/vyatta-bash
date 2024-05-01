@@ -1,3 +1,9 @@
+vyatta-bash (4.1-3+oros2+current2) UNRELEASED; urgency=medium
+
+  * Mark OROS version
+
+ -- Ernesto Castellotti <ernesto@castellotti.net>  Wed, 1 May 2024 22:21:14 +0200
+
 vyatta-bash (4.1-3+vyos2+current2) unstable; urgency=medium
 
   * Force release
